@@ -1,5 +1,5 @@
 
-// Exception Rule:
+// Exception Rules:
 // A subclass should throw fewer or narrower exceptions 
 // (but not additional or broader exceptions) than the parent.
 // Java enforces this only for checked Exceptions.
