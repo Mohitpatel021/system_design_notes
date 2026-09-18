@@ -1,3 +1,5 @@
+package Lecture02;
+
 
 /*
 Encapsulation says 2 things:

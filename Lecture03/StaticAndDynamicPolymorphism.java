@@ -1,3 +1,5 @@
+package Lecture03;
+
 // Base Car class
 abstract class Car {
     protected String brand;
